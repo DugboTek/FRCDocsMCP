@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "frc-docs": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "frc-docs-mcp"
+      ],
+      "env": {}
+    }
+  }
+}
