@@ -1,6 +1,6 @@
 {
   "name": "frc-docs-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server that gives AI coding assistants (Claude Code, Cursor, Windsurf, Claude Desktop) instant access to FRC robotics documentation — WPILib, CTRE Phoenix 6, REV Robotics, Limelight, and AdvantageKit. No API keys needed.",
   "type": "module",
   "bin": {
